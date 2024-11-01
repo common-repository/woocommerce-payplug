@@ -1,0 +1,178 @@
+#wc_get_started.payplug {
+    padding: 10px;
+    padding-left: 230px;
+    background-image: url('../images/payplug-logo-large.png');
+    background-position: 20px 40px;
+    background-repeat: no-repeat;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+#wc_get_started.payplug .get_help_hld,
+#wc_get_started.payplug .get_pro_version {
+    box-sizing: border-box;
+    height: 134px;
+    vertical-align: top;
+    display: inline-block;
+    border: solid 1px #c7c7c7;
+    border-radius: 4px;
+    padding: 7px 10px;
+    width: 440px;
+}
+
+#wc_get_started.payplug .get_pro_version {
+    border: solid 2px #7ca60d;
+    width: 550px;
+}
+
+#wc_get_started.payplug .get_pro_version legend {
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#wc_get_started.payplug .get_pro_version h4 {
+    margin: 0;
+    background-image: url(../../images/star.png);
+    background-repeat: no-repeat;
+    padding-bottom: 15px;
+    padding-left: 38px;
+    text-decoration: underline;
+}
+
+#wc_get_started.payplug .get_pro_version ol {
+    margin: 0;
+    margin-left: 50px;
+}
+
+#wc_get_started.payplug .get_pro_version .pro_version_bt {
+    float: right;
+}
+
+.spinner_hld:after {
+    content: '';
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: dashed 1px transparent;
+    margin-left: 6px;
+    vertical-align: middle;
+}
+
+.spinner_hld.activate:after {
+    border-radius: 50%;
+    border: dashed 1px #2d2d2d;
+    animation: spin 2s linear infinite;
+    content: '@';
+    text-align: center;
+    color: #2d2d2d;
+}
+
+#wc_get_started.payplug .get_help_hld p {
+    padding-top: 10px;
+}
+
+#wc_get_started.payplug .get_help_hld .support_btn {
+    margin-top: 10px;
+}
+
+#wc_get_started.payplug .get_free_account_bt {
+    position: absolute;
+    left: 26px;
+    top: 108px;
+    background: #7ca60e;
+}
+
+#wc_get_started.payplug .get_free_account_bt:hover {
+    background: #008ec2;
+}
+
+.payplug_admin_hld {}
+
+.payplug_admin_hld .form-table.parameters {
+    display: inline-block;
+    width: 70%;
+}
+
+.wcpayplug_presentation,
+.wcpayplug_presentation div {
+    box-sizing: border-box;
+}
+
+.wcpayplug_presentation {
+    max-width: 1000px;
+}
+
+.wcpayplug_presentation h1 {
+    background-image: url(../../images/payplug-logo-large.png );
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    min-height: 55px;
+    padding: 0;
+    padding-top: 16px;
+    padding-left: 50px;
+    font-weight: 100;
+    font-size: 28px;
+}
+
+.wcpayplug_block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.wcpayplug_col_1 .wcpayplug_block {
+    width: 50%;
+}
+
+.wcpayplug_col_1 .wcpayplug_block.wcpayplug_introduction {
+    width: 40%;
+    margin: 4% 5% 5% 5%;
+}
+
+.wcpayplug_col_1 .wcpayplug_block.wcpayplug_introduction p {
+    font-size: 17px;
+}
+
+.wcpayplug_instructions {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 15px;
+    padding-top: 0;
+}
+
+.wcpayplug_col_2 {
+    width: 75%;
+    margin: auto;
+}
+
+.wcpayplug_col_2 .title {
+    text-align: center;
+    font-weight: 400;
+    font-size: 28px;
+    padding-top: 60px;
+    color: #7ca60e;
+    background-image: url(../../images/chart.png );
+    background-repeat: no-repeat;
+    background-position: 85% 60%;
+    min-height: 55px;
+}
+.wcpayplug_col_2 img{
+    width: 70%;
+    display: block;
+    -webkit-box-shadow: 3px 10px 80px -5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 10px 80px -5px rgba(0,0,0,0.5);
+    box-shadow: 3px 10px 80px -5px rgba(0,0,0,0.5);
+    margin: 20px;
+}
+.wcpayplug_error{
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 5px 0 15px;
+    padding: 1px 12px;
+    border-left-color: #dc3232;
+}

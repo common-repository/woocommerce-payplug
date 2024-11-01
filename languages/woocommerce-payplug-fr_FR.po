@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boris Colombier <bc@wba.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.0.8\n"
+
+#: woocommerce-payplug.php:40
+msgid "The WooCommerce PayPlug Gateway requires the latest version of <a href=\"http://wordpress.org/extend/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> to work!"
+msgstr "WooCommerce PayPlug nécessite la dernier version de <a href=\"http://wordpress.org/extend/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> pour fonctionner !"
+
+#: woocommerce-payplug.php:91
+msgid "PayPlug"
+msgstr "PayPlug"
+
+#: woocommerce-payplug.php:153
+msgid "Your PayPlug configuration requires an update."
+msgstr "Votre configuration de PayPlug nécessite une mise à jour."
+
+#: woocommerce-payplug.php:155
+msgid "Please validate your information bellow."
+msgstr "Merci de valider les informations ci-dessous."
+
+#: woocommerce-payplug.php:166 woocommerce-payplug.php:177
+msgid "Help & Support"
+msgstr "Aide & Support"
+
+#: woocommerce-payplug.php:167
+msgid "In order to improve this plugin, do you agree to provide us with information about your configuration and receive personalized support?"
+msgstr "Afin d’améliorer ce plugin, acceptez-vous de nous fournir quelques informations sur votre configuration et de recevoir un support personnalisé ?"
+
+#: woocommerce-payplug.php:168
+msgid "This information will never be passed on to any third parties!"
+msgstr "Ces informations ne seront jamais partagées avec d’autres personnes !"
+
+#: woocommerce-payplug.php:170
+msgid "I agree"
+msgstr "J’accepte"
+
+#: woocommerce-payplug.php:179
+msgid "You have a question about this plugin, you want to give us a suggestion?"
+msgstr "Vous avez des questions à propos de ce plugin, vous avez des suggestions à nous faire ?"
+
+#: woocommerce-payplug.php:180
+msgid "contact support"
+msgstr "Contacter le support"
+
+#: woocommerce-payplug.php:188
+msgid "Would you like to receive our newsletter and improve your sales?"
+msgstr "Voulez-vous recevoir notre newsletter et améliorer vos ventes ?"
+
+#: woocommerce-payplug.php:190
+msgid "Subscribe"
+msgstr "Avec plaisir"
+
+#: woocommerce-payplug.php:199
+msgid "Please fill in the form below, we will answer you as soon as possible."
+msgstr "Merci de remplir le formulaire ci-dessous, nous vous répondrons aussi rapidement que possible."
+
+#: woocommerce-payplug.php:200
+msgid "Contact email"
+msgstr "Email de contact"
+
+#: woocommerce-payplug.php:201
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: woocommerce-payplug.php:202
+msgid "Message"
+msgstr "Message"
+
+#: woocommerce-payplug.php:203
+msgid "Cancel"
+msgstr "Annuler"
+
+#: woocommerce-payplug.php:204
+msgid "Send"
+msgstr "Envoyer"
+
+#: woocommerce-payplug.php:216
+msgid "An error has occurred, please try again later"
+msgstr "Une erreur est survenue, merci de réessayer plus tard"
+
+#: woocommerce-payplug.php:217
+msgid "Your message has been sent"
+msgstr "Votre message a été envoyé"
+
+#: woocommerce-payplug.php:229
+msgid "Enable/Disable"
+msgstr "Activer / Désactiver"
+
+#: woocommerce-payplug.php:231
+msgid "Enable PayPlug"
+msgstr "Activer PayPlug"
+
+#: woocommerce-payplug.php:232
+msgid "NB: This payment gateway can only be enabled if the currency used by the store is the euro."
+msgstr "NB: Cette passerelle de paiement ne peut être activée que si la devise de votre boutique est l’euro."
+
+#: woocommerce-payplug.php:236
+msgid "Test Mode"
+msgstr "Mode Test"
+
+#: woocommerce-payplug.php:238
+msgid "Use PayPlug in TEST (Sandbox) Mode"
+msgstr "Utiliser PayPlug en mode TEST"
+
+#: woocommerce-payplug.php:240
+msgid "Use test mode to test transactions with no real payment required"
+msgstr "Utiliser le mode TEST pour vérifier la bonne mise en service sans effectuer de paiement réel"
+
+#: woocommerce-payplug.php:243
+msgid "Title"
+msgstr "Titre"
+
+#: woocommerce-payplug.php:245
+msgid "Payment method title seen by the user upon payment."
+msgstr "Titre de la méthode de paiement affichée à l’acheteur."
+
+#: woocommerce-payplug.php:246
+msgid "Credit Card"
+msgstr "Carte Bancaire"
+
+#: woocommerce-payplug.php:249
+msgid "Description"
+msgstr "Description"
+
+#: woocommerce-payplug.php:251
+msgid "Payment method description seen by the user upon payment."
+msgstr "Description de la méthode de paiement affichée à l’acheteur."
+
+#: woocommerce-payplug.php:252
+msgid "Make secure payments using your bank card with PayPlug."
+msgstr "Payez en toute sécurité avec PayPlug"
+
+#: woocommerce-payplug.php:255
+msgid "Cancel URL"
+msgstr "URL d’annulation"
+
+#: woocommerce-payplug.php:257
+msgid "URL to the page on your website that PayPlug redirects to if the buyer cancels"
+msgstr "URL vers laquelle est redirigé l’acheteur si il annule la transaction"
+
+#: woocommerce-payplug.php:261
+msgid "PayPlug login"
+msgstr "Identifiant PayPlug"
+
+#: woocommerce-payplug.php:263
+msgid "The email address used to log on to PayPlug."
+msgstr "L’adresse email que vous utilisez pour vous connecter sur PayPlug"
+
+#: woocommerce-payplug.php:267
+msgid "PayPlug password"
+msgstr "Mot de passe PayPlug"
+
+#: woocommerce-payplug.php:269
+msgid "The password used to log on to PayPlug. This value is not saved in database."
+msgstr "Le mot de passe que vous utilisez pour vous connecter sur PayPlug"
+
+#: woocommerce-payplug.php:273
+msgid "Lightbox payment method"
+msgstr "Paiement direct sur votre site par iframe sécurisée"
+
+#: woocommerce-payplug.php:275
+msgid "The customer stays on the website to pay."
+msgstr "L’acheteur reste sur le site pour payer."
+
+#: woocommerce-payplug.php:280
+msgid "Mark the order as 'completed'"
+msgstr "Marquer la commande comme ‘Terminée’"
+
+#: woocommerce-payplug.php:282
+msgid "Mark the order as 'completed' upon payment confirmation by PayPlug instead of 'in progress'"
+msgstr "Marquer la commande comme ‘Terminée’ après confirmation du paiement plutôt que ‘En cours’"
+
+#: woocommerce-payplug.php:332
+msgid "Your credentials are invalid."
+msgstr "Vos identifiants ne sont pas valides."
+
+#: woocommerce-payplug.php:493
+msgid "The refund request has been sent to PayPlug. Please reload this page."
+msgstr "La demande de remboursement a été envoyé à PayPlug. Merci de recharger cette page."
+
+msgid "WooCommerce PayPlug PRO"
+msgstr "WooCommerce PayPlug PRO"
+
+msgid "Discover the PRO version of the WooCommerce-PayPlug plugin to increase your sales and save time."
+msgstr "Découvrez la version PRO du plugin WooCommerce-PayPlug pour augmenter vos ventes et gagner du temps."
+
+msgid "Payment form embedded in the site"
+msgstr "Formulaire de paiement directement sur le site"
+
+msgid "Full or partial refund from WooCommerce"
+msgstr "Remboursement total ou partiel à partir de WooCommerce"
+
+msgid "Access to PayPlug transactions from validated WooCommerce orders"
+msgstr "Accès aux transactions PayPlug depuis les commandes WooCommerce validées"
+
+msgid "Learn more"
+msgstr "En savoir plus"
+
+msgid "Open my free account"
+msgstr "Ouvrir un compte gratuit"
+
+msgid "Custom CSS for lightbox payment page"
+msgstr "Code CSS personnalisé pour l'intégration du formulaire de paiement sur le site"
+
+msgid "This code will be inserted on the page displaying the iframe with the Credit Card Form."
+msgstr "Ce code sera intégré sur la page affichant l'iFrame contenant le formulaire de paiement."
+
+msgid "Payment with PayPlug"
+msgstr "Paiement avec PayPlug"
